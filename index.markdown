@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This website is currently under construction, but feel free to look around and enjoy what I have done so far.
