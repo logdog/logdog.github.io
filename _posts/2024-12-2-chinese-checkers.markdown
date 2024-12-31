@@ -2,7 +2,7 @@
 layout: post
 title:  "Chinese Checkers, Cribbage, and Carbles"
 date:   2024-12-2 14:39:22 -0500
-categories: woodworking
+categories: crafts
 ---
 
 My wife and I enjoy playing board games with each other. Just before I started my PhD, I decided to spend a weekend making a game board for three of our favorite games: chinese checkers, cribbage, and carbles!
@@ -28,7 +28,7 @@ Before creating the template, I tested a variety of different hole depths by plu
 
 I created the template using Fusion 360, and then printed it onto 4 sheets of paper. Then, using scissors and tape I created the paper template you above. It took me two tries to create a properly sized template, since as it turns out, the circular wood piece I bought from Menards isn't a perfect circle, which you might be able to observe in the template. But in the finished product you really can't tell unless you're looking for it!
 
-![Image]({{"/images/chinese_checkers_template.jpg", | relative_url }})
+![Image]({{"/images/chinese-checkers/chinese_checkers_template.jpg", | relative_url }})
 
 ## Drilling the Holes
 
@@ -40,7 +40,7 @@ For the cribbage board ring, I just used a drill with tape marking the depth of 
 
 I opted to simply sand down the wood to 220 grit and not add any stain. I quite like the feel of the raw wood, and I was a bit worried that the stain might pool in all of the holes, creating dark spots, or clogging up the small cribbage peg holes.
 
-![Image]({{"/images/chinese_checkers_with_pieces.jpg", | relative_url }})
+![Image]({{"/images/chinese-checkers/chinese_checkers_with_pieces.jpg", | relative_url }})
 
 ## Creating Carbles
 
@@ -50,7 +50,7 @@ I used the same process as before: create a template, cut it out, mark the holes
 
 One fun touch I added was a hole in the middle. This is not standard in every Carbles board, but the rule is that if your marble would finish one hole past an inside corner, you can instead move to the center of the board to end your turn, instead of rounding the corner. On a future move, you continue by moving to _any_ inside corner you'd like. This really helps getting marbles around the board quickly, but you leave your marble quite exposed, which makes for an exciting twist to the game.
 
-![Image]({{"/images/carbles.jpg", | relative_url }})
+![Image]({{"/images/chinese-checkers/carbles.jpg", | relative_url }})
 
 ## Where Can I Get Templates?
 
