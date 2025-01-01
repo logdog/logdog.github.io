@@ -24,6 +24,7 @@ email: logan.dihel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello world! I am a PhD student and YouTube educator who is
   passionate about robotics, mathematics, and control systems.
+  I also like to hike and make things when I have free time.
   I hope you enjoy my videos, blogs, and tutorials.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
