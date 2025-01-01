@@ -1,0 +1,196 @@
+---
+layout: post
+title:  "Sewing a Lobster Plushie from Scratch"
+date:   2024-12-31 11:46:00 -0500
+categories: crafts
+---
+
+Creating your own plushie is a fun and challenging task. I have very little experience sewing, but I was able to design my own template and create this lobster in about 10 hours for less than $20 of materials.
+
+![Image]({{"/images/lobster/lobster-on-table.jpg", | relative_url }})
+
+#### Tools required:
+* Sewing machine
+* Sharp scissors
+* Seam ripper
+* Pins and needles
+
+#### Materials required:
+* 1/2 yard dark red fleece
+* 1/2 yard red fleece
+* Red thread
+* 2 feet thick red string
+* 2 craft eyeballs
+* Pillow stuffing
+
+### Backstory
+
+When my wife and I were in Maine to celebrate our anniversary, we saw a lot of cute lobster plushies for sale. But since each plushie cost about the same as a real cooked lobster, I figured my money was better spent on satisfying my taste buds. If you are every near Acadia National Park, I recommend the 
+Bar Harbor Lobster Pound. (They let me hold their biggest lobster, and I got to see the 1-in-100-million cotton candy lobster that was found the year before! They also have incredible lobster rolls.)
+
+![Image]({{"/images/lobster/logan-holding-lobster.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/blue-lobster.jpg", | relative_url }})
+
+### Creating the Template
+
+**Disclaimer**: I have never created my own template before, so be aware if you use my template there will be some modifications!
+
+My goal for this lobster was to create something cute that was a least partially anatomically correct. For me, the important part was that its left arm needed to be a ripper, while the right arm needed to be a large gripper. I also wanted to include the antennae as floppy red strings for added cuteness.
+
+While looking online at other lobster plushies and some anatomical drawings, I started by sketching and cutting out the body of the lobster on printer paper. Then I drew in the claws and played around with the positioning. I added in a few legs, and called my template good enough.
+
+![Image]({{"/images/lobster/lobster-template.jpg", | relative_url }})
+
+At this point, I was missing all of the top pices for the lobster (the left/right sides, the top piece, and top tail) but I decided I would cross the bridge when I got there.
+
+### Cutting out the belly
+
+As you can see in the final product, the bottom of the lobster is dark red, while the top is a bright red. For the belly, I just pinned the paper pattern to the fabric and cut it out with 1/4" seam allowance (I should have probably used a 1/2" allowance).
+
+### Sewing the claws
+
+Since I will be turning each piece of the lobster inside-out after I sew it (so that the seems look good) I need to make sure that the arms would be oriented the correct way. I put the dark red fabric on top of the red, pinned the pattern to the dark red fabric, and then cut out the claws.
+
+![Image]({{"/images/lobster/gripper-template.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/gripper-template-cut-out.jpg", | relative_url }})
+
+Then, I pinned the fabric together so I could sew around the perimeter of the claw, leaving the end open. 
+
+![Image]({{"/images/lobster/gripper-pinned.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/gripper-sewing.jpg", | relative_url }})
+
+For the gripper, I drew out where I wanted to sew using a sharpie, sewed the lines, and then cut off the excess fabric.
+
+![Image]({{"/images/lobster/gripper-claw-drawn.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/gripper-cutout.jpg", | relative_url }})
+
+For the ripper, I wanted to give the illusion of the claw being closed, so I did a 2" straight stitch down the middle of the claw after I turned the claw inside out.
+
+![Image]({{"/images/lobster/lobster-ripper-sewn.jpg", | relative_url }})
+
+Finally, I added stuffing to both claws but left them open where they will attach to the body.
+
+![Image]({{"/images/lobster/lobster-claws-stuffed.jpg", | relative_url }})
+
+### Sewing the top
+
+I decided to make the top using four pieces:
+1. top piece
+2. left piece
+3. right piece
+4. tail piece
+
+![Image]({{"/images/lobster/lobster-top-template.jpg", | relative_url }})
+
+The top piece (1) is a tall trapezoid that makes up the face and back of the lobster. The side pieces (2-3) are triangles that I rounded over so that they would attach to the top piece (1). To be clear, the straight sides of (2-3) will attach to the belly, and the rounded sides of (2-3) will attach to the sides of the top piece (1). I pinned (2) to (1) and sewed so that the seem would be on the inside of the plushie. Lots of pins were necessary to make the pieces lay flat. I repeated the process for (3).
+
+![Image]({{"/images/lobster/lobster-top-sewn1.jpg", | relative_url }})
+
+Next, I cut out a tail (4) which resembled the tail on the belly piece from before, but left a little extra fabric so it could be sewed to the end of (1-3). The assembled top is shown below. You might notice that the red tail (4) extends a bit too far past the dark red tail. Later, I removed about 1" of material by cutting on each side of the tail seem between (1-3) and (4), and then reattaching the pieces together.
+
+![Image]({{"/images/lobster/lobster-top-sewn2.jpg", | relative_url }})
+
+### Sewing the top to the belly (Attempt 1)
+
+I pinned the tail sections together, along with the front of the lobster's head, and its left ripper arm. I was very mindful of the orientation of the arm (the left ripper arm goes on the right side and faces inside the lobster up towards the head) so that after turning the lobster inside out, the arm would appear in the correct orienation. A good trick to remember is to match the color of the arm to the color of the belly. Unfortunately, I made two big mistakes here:
+1. I forgot to sew in the antennae
+2. I didn't sew through both sides of the arm, because I did not leave enough margin for error.
+
+![Image]({{"/images/lobster/lobster-pinned-top-1.jpg", | relative_url }})
+
+However, I was able to verify that the ripper arm was in the correct orientation afterwards. I spent the next 5 minutes ripping out the seems in the front until I was ready to try again.
+
+### Sewing the top to the belly (Attempt 2)
+
+This time, I focused on only attaching the antennae. I taped off the ends of the string so they wouldn't fray (burning did not really work) and positioned them to stick out about 1". I made sure the rest of the antennae was out of the way when I sewed, and did extra passes through the antennae so that they would be very secure if someone yanks on them later.
+
+![Image]({{"/images/lobster/lobster-pinned-top-2.jpg", | relative_url }})
+
+I quickly turned the lobster inside-out at this point to see how the antennae looked! I was really happy with the length and derpiness.
+
+![Image]({{"/images/lobster/lobster-top-sewn2-inside-out.jpg", | relative_url }})
+
+### Sewing the walking legs
+
+Lobsters technically have 5 sets of walking legs, but I decided that 3 on each side looked good enough. I cut out a bunch of rectangles out of the fabric and played around the with the length and width until I got legs that I liked. They were a bit tricky to turn inside out, and I decided that there were too small to stuff with fabric. I took my best 6 legs, sorted them by length, and distributed them to each side.
+
+![Image]({{"/images/lobster/walking-legs.jpg", | relative_url }})
+
+### Adding the left claw and left legs
+
+I pinned the left claw and left walking legs to the body (on the right side, like before) and made sure to let the claw/legs stick out past the body a little bit. I made multiple passes with the sewing machine to make sure that everything was strongly attached. Note that I pulled the antannae out of the way so they wouldn't accidentally get sewed to a leg or claw!
+
+![Image]({{"/images/lobster/left-side-pinned.jpg", | relative_url }})
+
+You can see how I had three legs, a claw, and two antennae stuffed inside the lobster for this step!
+
+![Image]({{"/images/lobster/left-side-pinned-right-open.jpg", | relative_url }})
+
+I turned the lobster inside-out to verify the location and strenght of the arm and legs.
+
+![Image]({{"/images/lobster/left-side-sewn.jpg", | relative_url }})
+
+### Adding the right claw and right legs
+
+The same step was repeated for the other claw, but it was extremely tight on space!! I wrapped up the right claw with rubber bands in order to compress it enough to fit it inside the lobster's head for sewing. Lots of pins, patience, and force was required to do this part. This step is by far the most difficult to complete since there are so many layers needed to be sewed, and it's easy for something to go wrong. Thankfully, I got lucky and was successful on my first try.
+
+![Image]({{"/images/lobster/right-claw-and-legs-pinned.jpg", | relative_url }})
+
+At this point, I cut off the excess fabric from the claws/legs to make the finished product a little nicer.
+
+### Turning the lobster inside out
+
+I decided to open up the lobster at the tail, but first I had to reinforce where I would start/end the seam ripping. I marked the position of where to start/stop with some pins, and reinforced the outside of the tail pieces, being sure to go forward and reverse at the pins a few times. I used the seam ripper to eliminate the tail seam and open the lobster up.
+
+![Image]({{"/images/lobster/lobster-ripping-tail.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/lobster-about-to-turn-inside-out.jpg", | relative_url }})
+
+Then, I could pull the lobster out of the tail revealing it for the first time!
+
+![Image]({{"/images/lobster/lobster-unstuffed-no-eyes.jpg", | relative_url }})
+
+### Giving the lobster eyes
+
+I played around with different eye positions until I found one I liked with the eyes close together. I used my seam ripper to poke holes in the face, and inserted the eyes. The back pices simply snap onto the eyeballs holding them in place.
+
+![Image]({{"/images/lobster/lobster-unstuffed.jpg", | relative_url }})
+
+### Stuffing the lobster
+
+I used a lot of stuffing to fill the body of the lobster. I made sure to put extra stuffing near the back where the body meets the tail, so that when I was finished sewing back up the tail there would be enough stuffing the move around into the tail.
+
+### Sewing the tail shut
+
+I used a slip stitch to close up the lobster tail. This is a good stitch to use because it is nearly invisible (when done by somebody better than me), as you are sewing through folds in each side of the fabric. Then, when pulled, the sides magically come together and hide the thread for the most part.
+
+![Image]({{"/images/lobster/lobster-sewing-tail.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/lobster-tail-sewn.jpg", | relative_url }})
+
+Once the tail was shut, I took the lobster outside for some glamor shots!
+
+### Glamor Shots
+
+Enjoy some pictures of my lobster!
+
+![Image]({{"/images/lobster/lobster-on-bbq.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/lobster-on-table-2.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/lobster-glamor-1.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/lobster-glamor-2.jpg", | relative_url }})
+
+![Image]({{"/images/lobster/lobster-glamor-3.jpg", | relative_url }})
+
+### Bonus Tip
+
+Thanks for making it to the end! One sewing lifehack is to use a magnetic dish for your sewing pins instead of wasting time sticking them back into your pin cushion. These magnetic dishes are typically used for scews and you can get them for under $5 at any home improvement store.
+
+![Image]({{"/images/lobster/magnetic-dish.jpg", | relative_url }})
+
